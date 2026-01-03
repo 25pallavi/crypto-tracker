@@ -47,7 +47,7 @@ Crypto Tracker is a web application for tracking cryptocurrency prices and trend
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/25pallavi/crypto-tracker`
-2. Navigate to the project directory: `cd myCrypto`
+2. Navigate to the project directory: `cd crypto-tracker`
 3. Install dependencies: `npm install`
 
 ### Usage
