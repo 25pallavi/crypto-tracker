@@ -46,7 +46,7 @@ Crypto Tracker is a web application for tracking cryptocurrency prices and trend
 ### [live preview](https://abhii-crypto.netlify.app/)
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/royabhi647/myCrypto.git`
+1. Clone the repository: `git clone https://github.com/25pallavi/crypto-tracker`
 2. Navigate to the project directory: `cd myCrypto`
 3. Install dependencies: `npm install`
 
